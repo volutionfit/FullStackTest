@@ -14,22 +14,21 @@ Your task is to create a brand new Laravel *(8.x)* installation, featuring a fun
  - Your front end must be a Vue SPA utilising the Vue Router
  - Your database must be setup using migrations
  - Your assessment must follow the Volution coding standard, this will demonstrate your ability to follow coding guidelines set out to all employees
+ - Users should not be able to access the Dashboard or Member List without being logged in
 
-### Login Page
+### The Build
 
-The login part of your application should follow the design at the below link, however for the main dashboard you must use your creativity. This is to assess your ability to follow visual guidelines, and your ability to create appealing features without guidance
+These Login and Dashboard pages should follow the attached design (This has been stripped back of all non essential design relevant to this assessment to don't worry if your build looks bare). However for the Member List you will have to use your own creativity. This is to assess your ability to create functionality and visual aspects without guidance.
 
-https://volution-dev.s3-eu-west-1.amazonaws.com/full-stack-test/Assets+and+Designs.zip
+https://xd.adobe.com/view/5f5c4dcd-0426-4fcc-9b10-3d3285973006-0a0f/
 
 ### Dashboard
 
-The following statistics should be added to the dashboard. For you to correctly write the Eloquent statements for this data you will need to add the Date of Birth and Gender to each user within the database migrations.
+We expect the figures for Gender and Age within the Dashboard to be connected to an API which will calculate each value from the database.  For you to correctly write the Eloquent statements for this data you will need to add the Date of Birth and Gender to each user within the database migrations.
 
- - Number of new users created this calendar month
- - The gender ratio of these users (58% Female, 42% Male)
- - The average age of these users
+### Member List
 
-Below the stats, render a tabled list of users. Each user should display the following information.
+For this list we would like the following data to be shown with each user in the table:
 
  - Name
  - Email
@@ -46,7 +45,6 @@ You should be able to sort the table by Name and Age by clicking the appropriate
 
 ### Other Information
 
-***Colours***
-Red: **#EF5350**
-Blue: **#0070D2**
-Grey: **#EDEEF0**
+We do not expect the search or profile within the header to have any functionality.
+
+If you have not used all of the technologies within this stack, this will greatly demonstrate your ability to quickly learn new things.
