@@ -13,7 +13,6 @@ Your task is to create a brand new Laravel *(8.x)* installation, featuring a fun
  - Your Laravel version must be 8 or above
  - Your front end must be a Vue SPA utilising the Vue Router
  - Your database must be setup using migrations
- - Your assessment must follow the Volution coding standard, this will demonstrate your ability to follow coding guidelines set out to all employees
  - Users should not be able to access the Dashboard or Member List without being logged in
 
 ### The Build
