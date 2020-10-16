@@ -38,7 +38,7 @@ There must be the ability to create new users, edit and delete existing users wh
 
 For creating and editing users you can either open a modal within the same page, or direct the user to a new page, your choice.
 
-For deleting a user, there must be a modal that will pop out to confirm they want to perform this action.
+For deleting a user, there must be a modal that will pop out to confirm they want to perform this action. The User model should use Soft Deleting.
 
 You should be able to sort the table by Name and Age by clicking the appropriate table header.
 
