@@ -17,7 +17,7 @@ Your task is to create a brand new Laravel *(8.x)* installation, featuring a fun
 
 ### The Build
 
-These Login and Dashboard pages should follow the attached design (This has been stripped back of all non essential design relevant to this assessment to don't worry if your build looks bare). However for the Member List you will have to use your own creativity. This is to assess your ability to create functionality and visual aspects without guidance.
+The Login and Dashboard pages should follow the attached design (This has been stripped back of all non essential design relevant to this assessment so don't worry if your build looks bare). However for the Member List you will have to use your own creativity. This is to assess your ability to create functionality and visual aspects without guidance.
 
 https://xd.adobe.com/view/5f5c4dcd-0426-4fcc-9b10-3d3285973006-0a0f/
 
