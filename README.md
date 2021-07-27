@@ -11,13 +11,17 @@ Your task is to create a brand new Laravel *(8.x)* installation, featuring a fun
 ### The Requirements
 
  - Your Laravel version must be 8 or above
- - Your front end must be a Vue SPA utilising the Vue Router
+ - Your front end must be a Vue SPA
  - Your database must be setup using seeds and migrations
  - Users should not be able to access the Member List without being logged in
 
 ### The Build
 
 The Login and Dashboard pages should follow the attached design (This has been stripped back of all non essential design relevant to this assessment so don't worry if your build looks bare).
+
+### Authentication
+
+The login page should be functional, and allow the user to access the dashboard. A user should not be able to access the main Dashboard if they are not authenticated.
 
 ### Member List
 
@@ -33,7 +37,7 @@ There must be the ability to create new users and and delete existing users whic
 
 ### Creating a User
 
-As per the design you should be able to create a user within a modal. The Club Location field such dynamically pull rows from your gyms table and populate a select field.
+As per the design you should be able to create a user within a modal. The Club Location field should dynamically pull rows from your gyms table and populate a select field.
 
 ### Deleting a User
 
@@ -51,10 +55,10 @@ This task will demonstrate your ability to integrate APIs with front end builds,
 
 We know that your time is valuable so we don't want to take up too much of it, however we do want to make sure we have the right person for the job!
 
-Please spend a maximum of 2 hours 30 minutes on this task. If you don't manage to get all of the functionality completed in this time then don't worry.
+We recommend you spend a maximum of 2 hours 30 minutes on this task. If you don't manage to get all of the functionality completed in this time then don't worry.
 
 ### Designs
 
-The design for this test can be found on the following Google Drive link. The designs are built in Adobe XD which you can download and use for free.
+The design for this test can be found on the following link. The designs are built in Adobe XD and published to the web. (On the right of the page there are 3 symbols, for Comments, Specs and Variables. The specs tab will have all the assets attached which you can download).
 
-https://drive.google.com/drive/folders/1FLr7Ss2ja8Q0rJ1WZdTODU1uQ_s_glik?usp=sharing
+https://xd.adobe.com/view/8f64e37a-bae4-4635-a0c6-cc224d413517-da37/
